@@ -1,0 +1,7 @@
+{
+	"prime_model": "./xgb_reg_prime.pkl",
+	"second_model": "./xgb_reg_second.pkl",
+	"loc_dataset": "./Testdataset.csv",
+	"loc_predictions": "./preds.csv"
+
+}
